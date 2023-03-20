@@ -7,6 +7,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+
 static int make_y64asm()
 {   
     return system("make > /dev/null");
